@@ -10,6 +10,7 @@ namespace Library_App
         {
            
             Library library = new Library();
+            
 
 
             var button ="";  
@@ -40,13 +41,13 @@ namespace Library_App
                         Console.Clear();
                         
                         library.AddBook(a,b,c);
-                        library.JsonMapper.UpdateLibrary(library.Books);
+                        library.JsonParser.UpdateLibrary(library.Books);
                         break;
                     case "3":
                         Console.WriteLine("Type number");
                         library.RemoveBook(Convert.ToInt32(Console.ReadLine()));
                         Console.Clear();
-                        library.JsonMapper.UpdateLibrary(library.Books);
+                        library.JsonParser.UpdateLibrary(library.Books);
                         break;
                     case "4":
                         Console.Clear();
@@ -93,7 +94,7 @@ namespace Library_App
                                 var name = Convert.ToString(Console.ReadLine());
 
                                 library.BorrowBook(number, name);
-                                library.JsonMapper.UpdateLibrary(library.Books);
+                                library.JsonParser.UpdateLibrary(library.Books);
                                 break;
                             case "0":
                                 Console.Clear();

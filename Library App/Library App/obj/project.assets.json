@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pawel.tryniszewski\\source\\repos\\Library App\\Library App\\Library App.csproj",
+      "projectUniqueName": "C:\\Users\\pawel.tryniszewski\\Documents\\GitHub\\LibraryC\\Library App\\Library App\\Library App.csproj",
       "projectName": "Library App",
-      "projectPath": "C:\\Users\\pawel.tryniszewski\\source\\repos\\Library App\\Library App\\Library App.csproj",
+      "projectPath": "C:\\Users\\pawel.tryniszewski\\Documents\\GitHub\\LibraryC\\Library App\\Library App\\Library App.csproj",
       "packagesPath": "C:\\Users\\pawel.tryniszewski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pawel.tryniszewski\\source\\repos\\Library App\\Library App\\obj\\",
+      "outputPath": "C:\\Users\\pawel.tryniszewski\\Documents\\GitHub\\LibraryC\\Library App\\Library App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pawel.tryniszewski\\AppData\\Roaming\\NuGet\\NuGet.Config",

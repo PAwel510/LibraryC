@@ -11,3 +11,16 @@ C:\Users\pawel.tryniszewski\source\repos\Library App\Library App\obj\Debug\netco
 C:\Users\pawel.tryniszewski\source\repos\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.dll
 C:\Users\pawel.tryniszewski\source\repos\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.pdb
 C:\Users\pawel.tryniszewski\source\repos\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.genruntimeconfig.cache
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\bin\Debug\netcoreapp3.1\Library App.exe
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\bin\Debug\netcoreapp3.1\Library App.deps.json
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\bin\Debug\netcoreapp3.1\Library App.runtimeconfig.json
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\bin\Debug\netcoreapp3.1\Library App.runtimeconfig.dev.json
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\bin\Debug\netcoreapp3.1\Library App.dll
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\bin\Debug\netcoreapp3.1\Library App.pdb
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.csprojAssemblyReference.cache
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.csproj.CoreCompileInputs.cache
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.AssemblyInfoInputs.cache
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.AssemblyInfo.cs
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.dll
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.pdb
+C:\Users\pawel.tryniszewski\Documents\GitHub\LibraryC\Library App\Library App\obj\Debug\netcoreapp3.1\Library App.genruntimeconfig.cache

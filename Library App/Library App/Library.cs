@@ -16,7 +16,7 @@ namespace Library_App
         }
 
         internal List<Book> Books { get => books; set => books = value; }
-        internal JsonParser JsonMapper { get => jsonParser; }
+        internal JsonParser JsonParser { get => jsonParser; }
 
 
         public void AddBook(string title, string author, int iSBN)
